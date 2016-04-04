@@ -1,0 +1,6 @@
+[
+  {"Id":"1","Name":"pratik","Password":"pratik","Age":"25","Mobile":"12346","Gender":"male"},
+  {"Id":"2","Name":"amit","Password":"khacchar","Age":"22","Mobile":"1234612","Gender":"male"},
+  {"Id":"3","Name":"HR","Password":"hr","Age":"21","Mobile":"1322346","Gender":"male"},
+  {"Id":"4","Name":"katrina","Password":"katty","Age":"28","Mobile":"12346","Gender":"female"}
+]
